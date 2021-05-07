@@ -1,0 +1,14 @@
+<phpunit 
+	backupGlobals = "true"
+	processIsolation = "true"
+	colors = "true"
+>
+<testsuites>
+	<testsuite name="Skysail Tests">
+		<directory>./tests</directory>
+	</testsuite>
+</testsuites>
+<logging>
+	<junit outputFile="junit.xml" />
+</logging>
+</phpunit>
