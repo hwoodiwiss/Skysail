@@ -4,7 +4,6 @@ namespace Skysail;
 
 require_once __DIR__ . '/HeaderCollection.php';
 require_once __DIR__ . '/Session.php';
-require_once __DIR__ . '/../../AppConfig.php';
 
 class ControllerContextBuilder
 {
