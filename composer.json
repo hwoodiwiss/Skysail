@@ -2,6 +2,11 @@
   "name": "secro/skysail",
   "description": "A quick and easy php framework, for easy low-friction creation of APIs",
   "type": "library",
+  "autoload": {
+    "psr-4": {
+      "Skysail\\": "./src"
+    }
+  },
   "require": {
     "php": ">=8.0"
   },
