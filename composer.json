@@ -19,5 +19,8 @@
       "name": "Hugo Woodiwiss",
       "email": "hj.woodiwiss@gmail.com"
     }
-  ]
+  ],
+  "scripts": {
+    "unit-test": ".\\vendor\\bin\\phpunit"
+  }
 }
