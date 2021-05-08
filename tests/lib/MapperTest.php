@@ -4,8 +4,8 @@ require_once __DIR__ . '/../TestData/MapperTestModels.php';
 require_once __DIR__ . '/../../src/lib/mapper.php';
 
 use PHPUnit\Framework\TestCase;
-use SkylabDesignApi\Mapper;
-use SkylabDesignApi\Validator;
+use Skysail\Mapper;
+use Skysail\Validator;
 
 class MapperTest extends TestCase
 {

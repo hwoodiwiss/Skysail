@@ -3,7 +3,7 @@
 require_once __DIR__ . '/../../src/lib/utils.php';
 
 use PHPUnit\Framework\TestCase;
-use SkylabDesignApi\Utils;
+use Skysail\Utils;
 
 class UtilsTest extends TestCase
 {

@@ -3,7 +3,7 @@
 require_once __DIR__ . '/../../../src/lib/Controller/Session.php';
 
 use PHPUnit\Framework\TestCase;
-use SkylabDesignApi\Session;
+use Skysail\Session;
 
 class SessionTest extends TestCase
 {

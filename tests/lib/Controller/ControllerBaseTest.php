@@ -3,8 +3,8 @@
 require_once __DIR__ . '/../../../src/lib/Controller/ControllerBase.php';
 
 use PHPUnit\Framework\TestCase;
-use SkylabDesignApi\ControllerBase;
-use SkylabDesignApi\ControllerContext;
+use Skysail\ControllerBase;
+use Skysail\ControllerContext;
 use PHPUnit\Framework\Assert;
 
 
